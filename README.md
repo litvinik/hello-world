@@ -1,2 +1,3 @@
 # hello-world
 learning how to work with git
+I want to learn how to code...
